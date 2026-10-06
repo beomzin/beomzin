@@ -9,7 +9,7 @@
 
 ### 🙋 About Me
 
-- 🌱 지금 공부하고 있는 것: **Vue 3 · Spring · Node.js**
+- 🌱 지금 공부하고 있는 것: **AI 에이전트 · Claude Code 플러그인 · 개발 자동화**
 - 🤖 실무에서는 **Claude Code** 기반으로 직접 만든 개발 워크플로(**workflow-kit**)에 따라 설계 → 검토 → 구현 → 검증 → 릴리스를 진행해요
 - 📚 공부한 내용은 [voyager](https://github.com/beomzin/voyager) 저장소에 예제 코드로 정리하고 있어요
 - 💬 관심 있는 것: **팀 단위 AI 협업 개발** — 여러 사람이 AI와 함께 더 쉽고 빠르게 일하는 방법
